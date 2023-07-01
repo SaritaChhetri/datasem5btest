@@ -1,0 +1,1 @@
+print ("we are students of gu university.")
